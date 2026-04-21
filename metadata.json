@@ -1,0 +1,6 @@
+{
+  "name": "Snake Beats",
+  "description": "A dark neon stylized snake game combined with a music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
